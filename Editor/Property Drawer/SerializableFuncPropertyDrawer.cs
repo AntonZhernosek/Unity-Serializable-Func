@@ -233,6 +233,15 @@ namespace Utilities.SerializableData.SerializableFunc.UnityEditorDrawers
         }
 
         #endregion
+        
+        #region Property Height Override
+
+        public override float GetPropertyHeight(SerializedProperty property, GUIContent label)
+        {
+            return 65f;
+        }
+
+        #endregion
 
         #endregion
 
