@@ -12,7 +12,7 @@ using UnityEngine;
 using UnityEngine.UIElements;
 using Utilities.Extensions.SystemExtensions;
 using Utilities.Extensions.UIToolkit;
-using UnityUtilities.SerializableDataHelpers
+using UnityUtilities.SerializableDataHelpers;
 using Object = UnityEngine.Object;
 
 namespace UnityUtilities.SerializableDataHelpers.UnityEditorUtilities
