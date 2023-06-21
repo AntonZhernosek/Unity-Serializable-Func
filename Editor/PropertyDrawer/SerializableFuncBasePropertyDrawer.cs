@@ -12,10 +12,10 @@ using UnityEngine;
 using UnityEngine.UIElements;
 using Utilities.Extensions.SystemExtensions;
 using Utilities.Extensions.UIToolkit;
-using Utilities.SerializableData.SerializableFunc.UnityEditorUtilities;
+using UnityUtilities.SerializableDataHelpers
 using Object = UnityEngine.Object;
 
-namespace Utilities.SerializableData.SerializableFunc.UnityEditorDrawers
+namespace UnityUtilities.SerializableDataHelpers.UnityEditorUtilities
 {
     [CustomPropertyDrawer(typeof(SerializableFuncBase<>), true)]
     public class SerializableFuncBasePropertyDrawer : PropertyDrawer

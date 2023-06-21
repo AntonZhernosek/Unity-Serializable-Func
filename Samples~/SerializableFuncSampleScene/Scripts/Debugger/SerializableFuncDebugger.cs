@@ -3,7 +3,7 @@
 using System.Collections.Generic;
 using TMPro;
 using UnityEngine;
-using Utilities.SerializableData.SerializableFunc;
+using UnityUtilities.SerializableDataHelpers;
 
 public class SerializableFuncDebugger : MonoBehaviour
 {

@@ -6,7 +6,7 @@ using System.Reflection;
 using System.Text.RegularExpressions;
 using UnityEditor;
 
-namespace Utilities.SerializableData.SerializableFunc.UnityEditorUtilities
+namespace UnityUtilities.SerializableDataHelpers.UnityEditorUtilities
 {
     public static class SerializedPropertyExtensions
     {
